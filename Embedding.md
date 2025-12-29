@@ -1,4 +1,4 @@
-# Embedding
+# nn.Embedding
 
 *class* torch.nn.Embedding(*num_embeddings*, *embedding_dim*, *padding_idx=None*, *max_norm=None*, *norm_type=2.0*, *scale_grad_by_freq=False*, *sparse=False*, *_weight=None*, *_freeze=False*, *device=None*, *dtype=None*)[[source]](https://github.com/pytorch/pytorch/blob/v2.9.0/torch/nn/modules/sparse.py#L15)
 
